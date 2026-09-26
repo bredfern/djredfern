@@ -1,0 +1,9 @@
+---
+title: "One Big"
+pubDate:  1990-09-25
+description: "Diary entries."
+---
+
+One big ball Of bright red hair Hurtles top speed Across the parking lot "Die fuckers, die, die, die."
+
+Yet then, the hair stopped for a second, looked up and said: "Sorry mom!"
