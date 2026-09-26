@@ -2,7 +2,6 @@
 title: "A Story"
 pubDate: "Aug 25 1986"
 description: 'Cue the 1980s Porno Music'
-heroImage: '../../assets/owlman.jpg'
 ---
 
 She slid into bed next to me, she threw her tan long, tan legs over
